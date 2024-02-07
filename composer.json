@@ -1,0 +1,18 @@
+{
+  "name": "microweber-modules/tidio",
+  "description": "Tidio",
+  "license": "MIT",
+  "homepage": "https://microweber.org/modules/microweber-modules/tidio",
+  "authors": [
+    {
+      "name": "Bozhidar Slaveykov",
+      "email": "bobi@microweber.com"
+    }
+  ],
+  "keywords": [
+    "tidio",
+    "tidio.com"
+  ],
+  "type": "microweber-module",
+  "target-dir": "tidio"
+}
